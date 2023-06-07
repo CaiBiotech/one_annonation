@@ -1,0 +1,8 @@
+
+
+## 将trinotate和eggnog.emapper注释结果融合为一个注释表
+
+包括，基因id，转录id，蛋白id，基因名称，基因描述，
+常规序列信息，PFAM信息，EC信息，KO信息，GO信息
+
+
